@@ -1,6 +1,6 @@
-### Olá, Sou Ian Victor Kohl
+### Olá, Sou Ian Victor Kohl. 😎🎶
 
-- 🔭 Atualmente estou trabalhando como full strack.
+- 🔭 Atualmente estou trabalhando como full stack.
 - 🌱 Estou graduando em engenharia da computação.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
