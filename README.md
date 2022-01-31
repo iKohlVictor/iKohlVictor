@@ -4,7 +4,7 @@
 
 - 🔭 Currently Work: Full Stack Development
 - 👨‍🎓 Studying : Computer Engineering at IFTM
-- 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , C, Git **
+- 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , C, Git**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
