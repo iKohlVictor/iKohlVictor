@@ -26,8 +26,9 @@
   <img align="center" alt="Kohl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kohl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Kohl-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
   <img align="right" alt="rick-gif" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=790b76119afeeaa13724163c98078948d5861c52702cb680&rid=giphy.gif&ct=s">
+</div>
+  
   
 <br><br>
 
